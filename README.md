@@ -14,6 +14,15 @@ A comprehensive health dashboard that helps users track various health-related d
 
 ---
 
+## Live Demo
+
+The application is deployed and accessible at:  
+[**Health Dashboard Live**](https://health-dashboard-varshith.vercel.app/)
+
+Feel free to explore the application using the live demo link above!
+
+---
+
 ## APIs Used
 
 1. **[MockAPI.io](https://mockapi.io/):**
@@ -59,3 +68,5 @@ npm install
    npm run build
    ```
    The build output will be generated in the build/ directory.
+
+---
