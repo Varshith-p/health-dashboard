@@ -3,6 +3,6 @@
 @tailwind utilities;
 
 * {
-  font-family: "Geist", sans-serif;
+  font-family: "Poppins";
   font-optical-sizing: auto;
 }
